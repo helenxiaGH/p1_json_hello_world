@@ -6,7 +6,7 @@
 using json = nlohmann::json;
 
 int main() {
-    std::cout << "Hi, This is a project on json.\n";
+    std::cout << "Hi, This is a project about json.\n";
 
     // Build a json
     json json1;
